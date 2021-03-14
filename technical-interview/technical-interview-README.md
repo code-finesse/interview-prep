@@ -23,7 +23,9 @@ Things to have installed or set up before diving into the code
 
 ## Extra Things to Note
 Users should keep these things in mind. Let them know things won't work unless they have done these
-* This is currently targeted towards entry level software engineers, but as time goes on it will be updated with information to help anyone.
+* In order to understand the implementation of certain things and more in depth understanding of specific problems, you can go to the [coding-challenges](https://github.com/code-finesse/coding-challenges) repository
+* That is where you can find individual problems, their solutions, and some comments explaining the thought process of the code
+* This repo will help you to understand the process as a whole, and point you in the right directions of which resources to use to prepare you for that specific stage
 
 ## How To Navigate (if necessary)
 Simple explanation of how to navigate the project folders (if not already explained in the project's README.md)
